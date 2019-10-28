@@ -6,6 +6,6 @@
 En este espacio se alojan los ejercicios llevados a cabo en las sesiones presenciales del curso.
 
 Faiver Humberto Trujillo González
-faiverht@gmail.com
-fhtrujillog@udistrital.edu.co
-2019
+#### #### faiverht@gmail.com
+#### fhtrujillog@udistrital.edu.co
+#### 2019

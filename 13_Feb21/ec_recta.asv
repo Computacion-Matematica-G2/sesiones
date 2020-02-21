@@ -1,0 +1,7 @@
+function [m,b] = ec_recta(p1,p2)
+% función que genera pendiente y punto de cruce dados 
+%   dos puntos (x,y)
+% forma y = mx+b
+dx = 
+end
+
